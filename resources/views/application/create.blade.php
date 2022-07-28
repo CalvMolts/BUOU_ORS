@@ -20,7 +20,7 @@
 
     <div class="card-header">Add Application</div>
 
-<!-- Start Formss -->
+<!-- Start Formsss -->
         <div class="card">
           <form method="post" action="{{ route('application.store'
           ) }}" enctype="multipart/form-data">
